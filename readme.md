@@ -19,6 +19,14 @@ Curso de NextJS dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para
 
 1.  **Empieza a desarrollar.**
 
+    Revisa tu versión de node
+
+
+    ```sh
+    node --version
+    ```
+    v16.20.2
+
     Instala dependencias
 
     ```sh
